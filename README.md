@@ -1,4 +1,4 @@
-# Olá, Eu sou a Rebeca! :D
+# Olá, Eu sou a Rebeca! #devPreta
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://https://github.com/becatriz)](https://github.com/becatriz)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rebeca-beatriz-lopes-cruz-b78ab813b/)](https://www.linkedin.com/in/rebeca-beatriz-lopes-cruz-b78ab813b//)
@@ -6,6 +6,7 @@
 
 
 ### Sobre Mim
+
 Sou desenvolvedora Backend e Frontend na empresa [@neainformatica](http://www.neainformatica.com.br/). Nas horas livres assisto Netflix, leio livros e afago gatos.
 
 - [Courses](https://www.jdevtreinamento.com.br/) 👨🏼‍🏫 - Atualmente estudo muito Java/SpringBoot e muito JavaScript/VueJs(https://br.vuejs.org/) e todo ecossistema dessas duas tecnologias.
