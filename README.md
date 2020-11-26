@@ -7,9 +7,9 @@
 
 ### Sobre Mim
 
-Sou desenvolvedora Backend e Frontend na empresa [@neainformatica](http://www.neainformatica.com.br/). Nas horas livres assisto Netflix, leio livros e afago gatos.
+Sou desenvolvedora Frontend na empresa [@before](https://before.com.br/). Nas horas livres assisto Netflix, leio livros e afago gatos.
 
-- [Courses](https://www.jdevtreinamento.com.br/) 👨🏼‍🏫 - Atualmente estudo muito Java/SpringBoot e muito JavaScript/VueJs(https://br.vuejs.org/) e todo ecossistema dessas duas tecnologias.
+- [Courses](https://www.origamid.com/) 👨🏼‍🏫 - Atualmente estudo VueJS(https://br.vuejs.org/), JavaScript, HTML e CSS.
 - [Blog]() ✍🏼 - Loading...
 - [Website]() 💻 - Trabalhando nisso ainda.. :P
 
