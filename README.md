@@ -10,7 +10,6 @@
 Sou desenvolvedora Frontend na empresa [@before](https://before.com.br/). Nas horas livres assisto Netflix, leio livros e afago gatos.
 
 - [Courses](https://www.origamid.com/) 👨🏼‍🏫 - Atualmente estudo VueJS(https://br.vuejs.org/), JavaScript, HTML e CSS.
-- [Blog]() ✍🏼 - Loading...
-- [Website]() 💻 - Trabalhando nisso ainda.. :P
+- [Medium](https://becatriz7.medium.com/) - Onde ecreveo artigos técnicos e não técnicos
 
 
