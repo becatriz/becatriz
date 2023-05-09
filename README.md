@@ -7,7 +7,7 @@
 
 ### Sobre Mim
 
-Sou desenvolvedora Frontend na empresa [@betalearning]([https://landing.solfacil.com.br/](https://www.betalearning.com.br/)). Nas horas livres assisto Netflix, leio livros e afago gatos.
+Sou desenvolvedora Frontend na empresa [@betalearning](https://www.betalearning.com.br/). Nas horas livres assisto Netflix, leio livros e afago gatos.
 
 - [Courses](https://www.origamid.com/) 👨🏼‍🏫 - Atualmente estudo VueJS(https://br.vuejs.org/), JavaScript, HTML e CSS. React, Next e todo ecossitema React.
 - [Medium](https://becatriz7.medium.com/) - Onde ecreveo artigos técnicos e não técnicos
